@@ -1,3 +1,24 @@
+<h2> Aryan Parashar's Portfolio </h2>
+
+## Welcome! 👋
+
+Welcome to my GitHub portfolio! Here you'll discover a showcase of my passion for cybersecurity, machine learning, and technology. As a dedicated professional, I'm committed to leveraging my skills and experiences to drive innovation and contribute to impactful projects in the cybersecurity landscape.
+
+## About Me 
+
+I am Aryan Parashar, a highly motivated and results-driven individual with a Bachelor's degree in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology. With a strong foundation in technology and a keen interest in cybersecurity, I am constantly exploring new challenges and seeking opportunities to expand my knowledge and expertise.
+
+## Certifications 🎓
+
+- IBM Cyber Security Analyst Professional Certification
+- EC Council Certified Ethical Hacker Version 12 (CEHv.12)
+- Cisco Certified Junior Cyber Security Analyst
+- Certified Windows Forensics Expert, CFCS2R
+- Ethical Hacking Elite Certification, IIT KGP
+- Google Cyber Security Professional Certifications
+- (ISC)2 Certified in Cybersecurity - CC
+
+
 **Google Cybersecurity Program Portfolio Summary:**
 
 This portfolio serves as a comprehensive documentation of my experiences within the Google Cybersecurity Program. It encompasses a diverse range of hands-on activities, lab exercises, and projects, all designed to replicate the responsibilities typically undertaken by Entry-Level Security Analysts. Within this portfolio, I have focused on honing and applying the following key skills:
